@@ -21,3 +21,15 @@ I'm currently learning Python and developing my skills in data analysis and data
 
 🚀 My Portfolio
 I'm working towards building projects in both data analysis and data science. I'll add my projects here as I complete them
+
+📊 Data Analysis Projects
+
+My projects using Excel, Python, and data analysis tools.
+
+*Projects coming soon!*
+
+🤖 Data Science Projects
+
+My projects exploring data science and machine learning.
+
+*Projects coming soon!*
