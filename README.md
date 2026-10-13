@@ -33,3 +33,13 @@ My projects using Excel, Python, and data analysis tools.
 My projects exploring data science and machine learning.
 
 *Projects coming soon!*
+
+## My Data Analysis Projects
+
+### Employee Performance and Salary Analysis
+
+An employee data analysis project exploring employee performance, salary distribution, demographics, and other workforce information.
+
+**Tools Used:** Excel, Python, Pandas
+
+[View Employee Performance and Salary Analysis](https://github.com/owojesu-maker/employee-performance-salary-analysis)
